@@ -67,5 +67,3 @@ This project showcases various Vue 3 component patterns. Below is a brief explan
 
 - **Template Literal**: Using JavaScript template literals to dynamically generate HTML content.
 - **Example**: `TemplateLiteral.vue`
-
-This project demonstrates these patterns to help you understand and implement them in your own Vue applications.
